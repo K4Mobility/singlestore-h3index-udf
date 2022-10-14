@@ -1,0 +1,1 @@
+h3index: func(lat: float64, lon: float64, res: u8) -> string
